@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>528164411801-l33jnmiojrm7aqpkq64ef250q3ng3vb6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.528164411801-l33jnmiojrm7aqpkq64ef250q3ng3vb6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC5MAea4JFsmQnE71VqeHcVGg2H9vNi5CY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>528164411801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tisobyn.Messenger</string>
+	<key>PROJECT_ID</key>
+	<string>messenger-yermek</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messenger-yermek.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:528164411801:ios:53e43677603872247a9b08</string>
+	<key>DATABASE_URL</key>
+	<string>https://messenger-yermek.firebaseio.com</string>
+</dict>
+</plist>
